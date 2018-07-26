@@ -1,5 +1,6 @@
-215a4ff25378306863879efc120adb1f *DESCRIPTION
+c80e9862656424ea81778ae6ace24943 *DESCRIPTION
 008cb4bcacc74ac8ce417502f3204b5e *NAMESPACE
+6a9d703d060cabf3e215062e5e9510cd *NEWS.md
 dd9772cdee5ed1db5f097b2acdea44fd *R/assign_treatment.R
 070e10e4f2683471419bd6ece4f7b20e *R/estimator.R
 b4913fdc0ec0dec97ff93d4d85ab260f *R/input_check.R
@@ -17,7 +18,7 @@ dcd11835646d1a03072099876699df4d *src/assign_treatment.c
 0303b5f3c04db7ff13ea103adad6272d *src/assign_treatment.h
 8129df329d5b76aba6ad5be269ae3483 *src/error.c
 76b0a201e0081c0136c782d3ef29fbf9 *src/error.h
-996eb20518c2a8ad59921919e8a0708c *src/estimator.c
+cfcdf3c665858b322079aa4f1456662c *src/estimator.c
 fcdb240d1aa2a57bddc515da90e9ad1c *src/estimator.h
 44603afbe9e40b63e64106187e6ce211 *src/quickblock-init.c
 95b77f07db365733eb0c137cd3989f3b *tests/testthat.R
