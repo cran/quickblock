@@ -1,3 +1,8 @@
+# quickblock 0.2.1
+
+  * Use string literals when calling R internal function `error()` for error messaging.
+
+
 # quickblock 0.2.0
 
   * Makes defaults and error messages friendlier with discrete covariates

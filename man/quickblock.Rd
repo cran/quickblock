@@ -4,8 +4,13 @@
 \alias{quickblock}
 \title{Construct threshold blockings}
 \usage{
-quickblock(distances, size_constraint = 2L, caliper = NULL,
-  break_large_blocks = FALSE, ...)
+quickblock(
+  distances,
+  size_constraint = 2L,
+  caliper = NULL,
+  break_large_blocks = FALSE,
+  ...
+)
 }
 \arguments{
 \item{distances}{\code{\link[distances]{distances}} object or a numeric vector, matrix
@@ -109,7 +114,6 @@ quickblock(my_data[c("x1", "x2")], normalize = "mahalanobize")
 Higgins, Michael J., Fredrik Sävje and Jasjeet S. Sekhon (2016),
    \sQuote{Improving massive experiments with threshold blocking},
    \emph{Proceedings of the National Academy of Sciences}, \bold{113:27}, 7369--7376.
-   \url{http://www.pnas.org/lookup/doi/10.1073/pnas.1510504113}
 }
 \seealso{
 See \code{\link[scclust]{sc_clustering}} for the underlying function used
